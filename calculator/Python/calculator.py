@@ -9,6 +9,7 @@ def subtract(arg1, arg2):
   result = arg1 - arg2
   return(result)
 
+<<<<<<< HEAD
 def multiply(arg1, arg2):
   result = arg1 * arg2
   return(result)
@@ -16,3 +17,5 @@ def multiply(arg1, arg2):
 def divide(arg1, arg2):
   result = arg1 / arg2
   return(result)
+=======
+>>>>>>> master
